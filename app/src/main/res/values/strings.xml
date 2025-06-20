@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">resfull</string>
+    <string-array name="categorias">
+        <item>Hopedaje</item>
+        <item>alojamiento</item>
+        <item>alimetacion y bebidas</item>
+        <item>actrativos culturares </item>
+        <item>esparcimiento</item>
+        <item>compras</item>
+        <item>trasporte</item>
+        <item>rutas</item>
+        <item>agencias de viaje</item>
+
+    </string-array>
+</resources>
